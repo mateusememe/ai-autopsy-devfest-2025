@@ -39,3 +39,5 @@ Just click the badge below!
   * **LinkedIn:** `linkedin.com/in/mateus-men`
   * **GitHub:** `github.com/mateusememe`
 * **Maria Beatriz França**: [Data Scientist Lead in Vericode]
+  * **LinkedIn:** `linkedin.com/in/maria-beatriz-frança/`
+  * **GitHub:** `github.com/mbsf`
