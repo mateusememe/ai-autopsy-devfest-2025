@@ -32,9 +32,10 @@ Just click the badge below!
 * `ai_autopsy_xai_titanic.ipynb`: The main Google Colab notebook with all the hands-on code.
 * `slides/`: A directory containing the workshop presentation slides (e.g., in PDF format).
 
-## About the Speaker
+## About the Speakers
 
 
 * **Mateus Mendonça Monteiro:** [MSc student and Backend Software Engineer at Luizalabs]
-* **LinkedIn:** `linkedin.com/in/mateus-men`
-* **GitHub:** `github.com/mateusememe`
+  * **LinkedIn:** `linkedin.com/in/mateus-men`
+  * **GitHub:** `github.com/mateusememe`
+* **Maria Beatriz França**: [Data Scientist Lead in Vericode]
